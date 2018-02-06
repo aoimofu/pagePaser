@@ -9,7 +9,7 @@ With this command you can retrieve the necessary data from the website.
 pagepaser -u URL -e HTML ELEMENT
 ```
 
-## Exsample
+## Example
 ```
 pagepaser -u http://www.lovelive-anime.jp/uranohoshi/news.php -e 'div.title'
 
